@@ -1,0 +1,75 @@
+body {
+    background-image: linear-gradient(to top, white, #F8D7DA);
+}
+
+div#voltar {
+    color: black;
+    text-align: center;
+    text-decoration: none;
+}
+
+div.titulo {
+   color: rgb(255, 15, 147);
+   text-align: center;
+   margin-top: 10px;
+   margin-bottom: 30px;
+   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.281);
+}
+
+.carousel-caption h5 {
+    font: bold 80px Arial;
+    text-align: end;
+    color: white;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.356);
+}
+
+main {
+    background: white;
+    min-width: 300px;
+    max-width: 1000px;
+    margin: auto;
+    padding: 30px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.356);
+}
+
+.box {
+    display: inline-block;
+}
+
+#texto {
+    margin: 50px 0px 10px 20px;
+    margin-top: 30px;
+    font-size: 20px;
+    text-align: end;
+    width: 400px;
+}
+
+.redes {
+    margin-left: 50px;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+}
+
+footer > div {
+    background-color: rgb(255, 230, 239);
+    font: normal 20px;
+}
+
+footer > div > p {
+    padding: 10px 0px 0px 10px;
+    margin: 0px; 
+}
+
+footer>div>p#icones {
+    font: bold 20px Arial;
+    text-align: center;
+    padding-bottom: 30px;
+}
